@@ -1,9 +1,9 @@
 ﻿using static System.Console;
 using static System.Convert;
 
-namespace Random_number
+namespace RandomNumberApp
 {
-    class Random_Number
+    class RandomNumber
     {
         static void Main(string[] args)
         {
